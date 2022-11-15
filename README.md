@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋🏽, I'm Awwal<br>A Python developer from Nigeria<br>I have 2 years experience in tech<br><br>Now studying:<br>         . Data science and analysis<br>         . Machine learning and Artificial intelligence<br>         .  Game development with python<br>Hobbies:<br>         . Learning and reading about new technologies<br>         . Watching anime<br>         . Attending tech twitter spaces and virtual events
+Hi 👋🏽, I'm Awwal<br>A Python developer from Nigeria<br>I have 2 years experience in tech<br><br>Now studying:<br>         . Data science and analysis<br>         . Machine learning and Artificial intelligence<br>      <br>Hobbies:<br>         . Learning and reading about new technologies<br>         . Watching anime<br>         . Attending tech twitter spaces and virtual events
 
 
 ## 🌐 Socials:
